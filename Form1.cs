@@ -1,8 +1,6 @@
 ﻿/*
  * Assignment 2 
  * CIS 411-75
- * Student ID# 5411844
- * Due: 02/02/2024
  */
 
 using System;
